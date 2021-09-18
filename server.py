@@ -44,7 +44,7 @@ class server_backdoor:
                                 (Python-Backdoor)
 
                                 Version 1.4
-                                Github: https://github.com/Senc3951/                              
+                                Github: https://github.com/JohnTR13/                              
                                                         {}\n\n""".format(Fore.BLUE, Fore.RESET))
                 
         except Exception as e:
