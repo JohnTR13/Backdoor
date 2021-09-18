@@ -1,2 +1,2 @@
 # Backdoor
-This is a Backdoor, Created with Python.
+Backdoor created with Python.
